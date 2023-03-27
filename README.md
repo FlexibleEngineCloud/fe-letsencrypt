@@ -56,3 +56,7 @@ The 'renew.sh' script will attempt to renew certificate previously obtained for 
 - Putting ELB Certificate: https://docs.prod-cloud-ocb.orange-business.com/api/elb/CreateCertificate.html
 - Assinging ELB Certificate to ELB Listener: https://docs.prod-cloud-ocb.orange-business.com/api/elb/UpdateListener.html
 - Deleting DNS record: https://docs.prod-cloud-ocb.orange-business.com/en-us/api/dns/dns_api_64005.html
+
+
+## License :
+This repository is licensed under the Apache 2.0 License. See the LICENSE file for more information.
